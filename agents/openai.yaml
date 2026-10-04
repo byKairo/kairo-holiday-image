@@ -1,0 +1,4 @@
+interface:
+  display_name: "kairo-holiday-image"
+  short_description: "先自动修复照片问题，再选择合适风格完成假期与朋友圈出片"
+  default_prompt: "使用 $kairo-holiday-image 审查这些照片，先完成必要的基础修复，再自动选择最适合的固定风格逐张生成。"
