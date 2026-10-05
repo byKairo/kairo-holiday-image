@@ -20,9 +20,17 @@
 | --- | --- |
 | ![海边拍立得出框效果](beach-polaroid.png) | ![海边 ins 手绘注释](beach-ins.png) |
 
-### 雪山旅行 · 墨镜人物贴纸卡
+### 山间假日 · 撕纸几何拼贴
 
-<img src="mountain-sticker.png" alt="雪山墨镜人物旅行贴纸卡" width="320">
+| 山间牛群 | 湖边徒步 |
+| --- | --- |
+| <img src="mountain-cows-collage.png" alt="山间牛群撕纸几何拼贴" width="320"> | <img src="lakeside-walk-collage.png" alt="湖边徒步撕纸几何拼贴" width="320"> |
+
+### 山间假日 · 旅行贴纸卡
+
+| 山间牛群 | 湖边徒步 |
+| --- | --- |
+| <img src="mountain-cows-sticker-card.png" alt="山间牛群旅行贴纸卡" width="320"> | <img src="lakeside-walk-sticker-card.png" alt="湖边徒步旅行贴纸卡" width="320"> |
 
 以上案例用于展示风格效果，不是基础修复的前后对比。结果由图像模型生成，
 可能存在细节变化，不代表像素级保真或所有照片都能获得同样效果。
